@@ -58,9 +58,9 @@ Jogo
 
 ```text
 📦 Arcade
- ├── Arduino_Player1/
- ├── Arduino_Player2/
- ├── Python/
+ ├── FliperamaArcade_P1.ino/
+ ├── FliperamaArcade_P2.ino/
+ ├── ponte_mame.py/
  ├── Imagens/
  └── README.md
 ```
