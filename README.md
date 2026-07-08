@@ -79,8 +79,11 @@ Durante o desenvolvimento foram aplicados conceitos de:
 
 ## 📸 Demonstração
 
-Adicione aqui imagens do gabinete, da montagem eletrônica e um vídeo mostrando o funcionamento do arcade.
+<img src="https://github.com/giimvm/magic-arcade/blob/main/imagens/imagem1.jpeg" width="300"> <img src="https://github.com/giimvm/magic-arcade/blob/main/imagens/imagem2.jpeg" width="300">
+<img src="https://github.com/giimvm/magic-arcade/blob/main/imagens/imagem3.jpeg" width="300">
 
 ## 👥 Equipe
 
 Projeto desenvolvido como atividade da disciplina de Sistemas Digitais da CESAR School.
+
+<img src="https://github.com/giimvm/magic-arcade/blob/main/imagens/equipe.jpeg" width="400">
